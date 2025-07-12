@@ -1,4 +1,4 @@
-# Milli Geliştirici Eğitici Çocuk Oyunları
+# Eğitici Çocuk Oyunları
 
 ## Proje Açıklaması
 Bu proje, çocukların eğlenerek öğrenmesini amaçlayan, AR (Artırılmış Gerçeklik) destekli bir mobil oyun uygulamasıdır. Hedef kitlesi 5-10 yaş arası çocuklardır. Oyun, balon patlatma gibi eğlenceli aktivitelerle temel bilişsel ve motor becerileri geliştirmeye yardımcı olur.
